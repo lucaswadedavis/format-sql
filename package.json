@@ -9,7 +9,9 @@
         "email": "srahare@gmail.com",
         "url": "https://github.com/SethRAH"
     },
-    "dependencies": {},
+    "dependencies": {
+        "lodash": "^4.15.0"
+    },
     "devDependencies": {},
     "scripts": {
         "test": "echo \"ERROR: no test specified\" && exit 1"
